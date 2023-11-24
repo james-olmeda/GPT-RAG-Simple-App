@@ -1,0 +1,10 @@
+azure-common==1.1.28
+azure-core==1.29.4
+azure-identity==1.14.0
+azure-keyvault-secrets==4.7.0
+Flask==2.2.2
+Flask-Cors==3.0.10
+openai==1.2.4
+python-dotenv == 1.0.0
+tk 
+werkzeug==2.3.7
