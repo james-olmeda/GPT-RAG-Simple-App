@@ -1,10 +1,10 @@
 
-# GPT-RAG Orchestrator App README
+# GPT-RAG Simple TK App 
 
 ## Overview
 This application is an interactive chat application that utilizes an Azure Function-based orchestrator to connect with the GPT-RAG model [gpt-rag-orchestrator](https://github.com/Azure/gpt-rag-orchestrator/tree/147e1cb8545eae368580f6eaa182a56f4f7610a9). The app provides a user interface with TK for sending queries and receiving responses from the model. 
 
-<img src="media/chat.PNG" alt="Chat preview" width="512">
+<img src="media/chat.png" alt="Chat preview" width="512">
 
 ## Files
 - `main.py`: The entry point for the application. It initializes and runs the chat application.
